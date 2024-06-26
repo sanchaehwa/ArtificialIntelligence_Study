@@ -1,6 +1,6 @@
 # ArtificialIntelligence_Study
  **CheckList**
-- [ ] Natural Language Processing Preparation 
+- [X] Natural Language Processing Preparation 
 - [ ] Text preprocessing
 - [ ] Language Model
 - [ ] Count based word Representation
